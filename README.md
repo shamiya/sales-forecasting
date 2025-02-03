@@ -1,6 +1,6 @@
 # Sales Analysis and Forecasting
-
-## 📌 Project Overview
+After 2+ yrs break from coding I resumed crunching data again. Hope I can continue..
+## Project Overview
 This project analyzes sales data to identify trends and forecast future sales using Python. The dataset contains yearly sales data, including profit centers, product groups, general ledger names, regions, and countries. Various visualizations and predictive analysis techniques are applied to gain insights and make data-driven decisions.
 
 ## 📊 Data Analysis and Visualizations
@@ -32,7 +32,7 @@ This project analyzes sales data to identify trends and forecast future sales us
 - Uses ARIMA time series forecasting to predict future sales.
 - Provides a data-driven approach for sales planning.
 
-## 🛠️ Technologies Used
+## Tec Stack
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels, Scikit-learn)
 - **Jupyter Notebook / Google Colab** for analysis
 - **Git & GitHub** for version control
@@ -40,7 +40,7 @@ This project analyzes sales data to identify trends and forecast future sales us
 
 
 
-## 📌 To..Do..
+##  To Do
 - Implement deep learning models (LSTMs) for forecasting.
 - Add interactive dashboards using **Streamlit or Dash**.
 - Automate data updates using **APIs**.
