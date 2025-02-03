@@ -37,19 +37,10 @@ This project analyzes sales data to identify trends and forecast future sales us
 - **Jupyter Notebook / Google Colab** for analysis
 - **Git & GitHub** for version control
 
-## 📂 Project Structure
-```
-📦 sales-forecasting
-├── 📁 data               # Contains dataset (e.g., sales_data.csv)
-├── 📁 notebooks          # Jupyter Notebooks for analysis
-├── 📄 sales_analysis.py   # Python script for sales analysis
-├── 📄 sales_forecast.py   # Python script for forecasting
-├── 📄 requirements.txt    # Python dependencies
-├── 📄 README.md           # Project documentation
-```
 
 
-## 📌 Future Improvements
+
+## 📌 To..Do..
 - Implement deep learning models (LSTMs) for forecasting.
 - Add interactive dashboards using **Streamlit or Dash**.
 - Automate data updates using **APIs**.
